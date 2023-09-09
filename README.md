@@ -2,7 +2,9 @@
 
 
 Меня зовут Алексей и я начинающий Frontend разработчик!
+
 Веб-разработку изучаю под руководством опытного наставника.
+
 Сейчас нахожусь в активном поиске работы.
 
 ### Стек технологий: 
@@ -37,6 +39,20 @@
 - [![Telegram Badge](https://img.shields.io/badge/-taraskinaleksei-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Maragion)
 - [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:bakamoena@gmail.com)
 
+---
+
+### ⚙️ GitHub статистика:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=maragion&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maragion&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
 <!--
 **maragion/maragion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
