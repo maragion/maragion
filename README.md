@@ -34,7 +34,7 @@
 ---
 
 
-### Как связаться:
+### Для связи:
 
 - [![Telegram Badge](https://img.shields.io/badge/-Maragion-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Maragion)
 - [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:bakamoena@gmail.com)
