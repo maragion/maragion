@@ -7,8 +7,6 @@
 
 ### Стек технологий: 
 
----
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
@@ -36,7 +34,6 @@
 
 ### Как связаться:
 
-- :mailbox: Как связаться со мной:
 - [![Telegram Badge](https://img.shields.io/badge/-taraskinaleksei-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Maragion)
 - [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:bakamoena@gmail.com)
 
